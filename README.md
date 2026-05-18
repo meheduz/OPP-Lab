@@ -1,4 +1,4 @@
-# Java Lab 2 Assignment
+# OOP Lab 2 Assignment
 
 This repository contains the Java solutions for Lab 2. Each exercise is located in its own folder under `solutions/` and includes a single Java source file with an implementation of the required system.
 
